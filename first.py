@@ -1,3 +1,3 @@
 #
 name = input ("как тебя зовут?\n")
-print ("привет, ", name)
+print ("привет,", name, name, name)
