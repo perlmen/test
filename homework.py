@@ -1,3 +1,5 @@
+# import math
+# x = math.remainder()
 print ("mathHomework.py")
 problem = input("введите задачу или 'q', чтобы выйти: ")
 while (problem!= 'q'):
